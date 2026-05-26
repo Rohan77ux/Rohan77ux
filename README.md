@@ -1,203 +1,187 @@
+<!--- 🌟 FRESH DESIGN — No old patterns, fully reimagined 🌟 -->
+
 <div align="center">
+  
+<!-- Animated gradient heading -->
+<h1>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" style="vertical-align: middle;">
+  <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); background-clip: text; -webkit-background-clip: text; color: transparent;">Devi Prakash Yadav</span>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" style="vertical-align: middle;">
+</h1>
 
-<!-- Simple Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a202c&height=180&section=header&text=Devi%20Prakash%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18"/>
+<!-- Animated badge with pulse effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%26+Agentic+Systems+Builder;Real‑time+%7C+RAG+%7C+LLMs;Open+Source+Enthusiast" />
 
-<!-- Typing Animation (clean) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&random=false&width=700&lines=Building+Full-Stack+%26+AI+Systems;TypeScript+%7C+Python+%7C+React;Real-Time+%7C+RAG+%7C+Agentic+AI;Open+to+Cool+Projects+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+<br/>
 
-<!-- Profile Badges (simple) -->
-<img src="https://komarev.com/ghpvc/?username=Rohan77ux&label=Profile%20Views&color=4A90E2&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rohan77ux?label=Followers&style=for-the-badge&color=4A90E2&logo=github&logoColor=white" alt="followers"/>
+<!-- Floating stats badges (no glow, just clean) -->
+<img src="https://komarev.com/ghpvc/?username=Rohan77ux&label=✨+explorers&color=667eea&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Rohan77ux?label=⭐+followers&style=flat-square&color=764ba2" />
+<img src="https://img.shields.io/badge/🌐-Portfolio_Available-667eea?style=flat-square" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 📌 The Developer in 3 Acts
 
 <div align="center">
   
-<table style="background: #1a202c; border-radius: 20px; border: 1px solid #2d3748; margin: 16px 0;">
+<table>
   <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Dev" width="80px" />
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/-Builder-764ba2?style=for-the-badge&logo=github&logoColor=white" />
       <br />
-      <b>Devi Prakash Yadav</b>
-      <br />
-      <code>Full Stack & AI Engineer</code>
-      <br /><br />
-      <b>📍 India</b><br />
-      <b>📧</b> <a href="mailto:deviprakashyadav15@gmail.com">deviprakashyadav15@gmail.com</a><br />
-      <b>🔗</b> <a href="https://github.com/Rohan77ux">github.com/Rohan77ux</a>
+      <b>“I ship products, not just code.”</b><br />
+      From whiteboards to AI backends —<br />
+      end-to-end ownership.
     </td>
-    <td align="left" width="50%" style="padding: 20px;">
-      <b>🧠 Core Expertise</b><br />
-      • Full Stack Architecture<br />
-      • Agentic AI & RAG Pipelines<br />
-      • Real‑Time Collaborative Apps<br />
-      • LLM Integration & Voice AI<br />
-      • Containerized Microservices<br /><br />
-      <b>🔥 Current Focus</b><br />AI‑native real‑time applications<br />
-      <b>🎯 Fun Fact</b><br />C/C++ for logic, TypeScript for products, Python for AI
-     </td>
-   </tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/-Problem_Solver-667eea?style=for-the-badge&logo=lightbulb&logoColor=white" />
+      <br />
+      <b>“Logic in C++, speed in TS.”</b><br />
+      Love turning complex requirements<br />
+      into elegant, scalable systems.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/-AI_Explorer-764ba2?style=for-the-badge&logo=openai&logoColor=white" />
+      <br />
+      <b>“Agentic AI is the new frontier.”</b><br />
+      Building RAG pipelines, voice agents,<br />
+      and LLM‑powered tools.
+    </td>
+  </tr>
 </table>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Core Toolbox
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
+<!-- Animated skill cards using inline-block and hover -->
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
-<!-- Draw App Card (clean) -->
-<div style="background: #1a202c; border-radius: 20px; border: 1px solid #2d3748; width: 340px; padding: 20px;">
-  <div align="center">
-    <img src="https://img.shields.io/badge/Draw_App-Realtime_Whiteboard-4A90E2?style=for-the-badge&logo=canvas&logoColor=white" alt="Draw App" />
-  </div>
-  <br />
-  <div align="left">
-    <b>🎨 Collaborative whiteboard</b><br />
-    • Next.js 15 + React 19<br />
-    • WebSocket real‑time sync<br />
-    • PostgreSQL + Prisma ORM<br />
-    • Turborepo monorepo<br />
-    • Multi‑user rooms, shapes, pencil, text, images<br />
-    • JWT‑authenticated WebSockets
-  </div>
-  <br />
-  <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-97%25-3178C6?style=flat-square" />
-    <img src="https://img.shields.io/badge/WebSocket-Realtime-brightgreen?style=flat-square" />
-  </div>
-  <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/Rohan77ux/Draw-App"><img src="https://img.shields.io/badge/📁_View_Repo-1a202c?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <b>TS</b>
 </div>
 
-<!-- Aroma AI Card -->
-<div style="background: #1a202c; border-radius: 20px; border: 1px solid #2d3748; width: 340px; padding: 20px;">
-  <div align="center">
-    <img src="https://img.shields.io/badge/Aroma_AI-GPT_Powered-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="Aroma AI" />
-  </div>
-  <br />
-  <div align="left">
-    <b>🧠 Full‑featured AI platform</b><br />
-    • JWT Auth + MongoDB<br />
-    • OpenAI‑powered chat engine<br />
-    • RAG pipeline with Qdrant Vector DB<br />
-    • Voice AI (Deepgram API)<br />
-    • Image generation with CNN<br />
-    • Redis caching + Dockerized microservices
-  </div>
-  <br />
-  <div align="center">
-    <img src="https://img.shields.io/badge/TypeScript-60%25-3178C6?style=flat-square" />
-    <img src="https://img.shields.io/badge/Python-36%25-3776AB?style=flat-square" />
-    <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
-  </div>
-  <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/Rohan77ux/Aroma-Ai"><img src="https://img.shields.io/badge/📁_View_Repo-1a202c?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </div>
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <b>Python</b>
 </div>
 
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <b>React / Next</b>
 </div>
 
-<!-- Other projects row -->
-<div align="center" style="margin-top: 28px;">
-  <b>⚡ More Projects</b><br /><br />
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <a href="https://github.com/Rohan77ux/course-App"><img src="https://img.shields.io/badge/📘_Course_App-1a202c?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-    <a href="https://github.com/Rohan77ux/login-inbox"><img src="https://img.shields.io/badge/🔐_Login_Inbox-1a202c?style=for-the-badge&logo=key&logoColor=white" /></a>
-    <a href="https://github.com/Rohan77ux/jal-suraksha"><img src="https://img.shields.io/badge/💧_Jal_Suraksha-1a202c?style=for-the-badge&logo=water&logoColor=white" /></a>
-    <a href="https://github.com/Rohan77ux/Refokus-react-frontend"><img src="https://img.shields.io/badge/🎯_Refokus_Frontend-1a202c?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  </div>
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <b>FastAPI</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <b>PostgreSQL</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <b>MongoDB</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <b>Docker</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" /> <b>WebSocket</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <b>LangChain</b>
+</div>
+
+<div style="background: #1E293B; border-radius: 30px; padding: 8px 18px; transition: all 0.2s ease; border: 1px solid #334155;">
+  <img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=flat-square&logo=qdrant&logoColor=white" /> <b>Qdrant</b>
+</div>
+
 </div>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Work I'm Proud Of
 
 <div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer) |
-| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) |
-| **AI/ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain) ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=flat-square) ![Deepgram](https://img.shields.io/badge/Deepgram-Voice_AI-13EF93?style=flat-square) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma) ![WebSocket](https://img.shields.io/badge/WebSocket-5C2D91?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) |
+  
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎨 **[Draw App](https://github.com/Rohan77ux/Draw-App)** | Real‑time collaborative whiteboard with rooms, shapes, and JWT | Next.js, WebSocket, PostgreSQL, Prisma |
+| 🧠 **[Aroma AI](https://github.com/Rohan77ux/Aroma-Ai)** | GPT‑powered assistant with RAG, voice input, image gen | FastAPI, OpenAI, Qdrant, Deepgram, Redis |
+| 📚 **Course App** | Learning platform with interactive content | MERN stack |
+| 🔐 **Login Inbox** | Secure email‑based login system | Express, MongoDB, JWT |
+| 💧 **Jal Suraksha** | Water quality monitoring dashboard | React + Charts |
+| 🎯 **Refokus Frontend** | Pixel‑perfect responsive UI | React, Framer Motion |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Pulse
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohan77ux&show_icons=true&theme=dark&bg_color=1a202c&title_color=4A90E2&icon_color=4A90E2&text_color=e2e8f0&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan77ux&layout=compact&theme=dark&bg_color=1a202c&title_color=4A90E2&text_color=e2e8f0&hide_border=true"/>
+<!-- 3D-like stats with subtle shadows -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohan77ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=E2E8F0&ring_color=667EEA" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan77ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E2E8F0" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan77ux&theme=dark&background=1a202c&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakNum=e2e8f0&sideNums=e2e8f0&hide_border=true" alt="streak stats"/>
+<!-- Custom streak heatmap -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan77ux&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=764BA2&currStreakNum=E2E8F0&sideNums=E2E8F0" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan77ux&theme=github-dark&bg_color=1a202c&color=4A90E2&line=4A90E2&point=cbd5e0&area=true&hide_border=true" alt="contribution graph" width="100%"/>
+<!-- Activity graph with gradient -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan77ux&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤖 AI Proficiency (Self‑quantified)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rohan77ux&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+| Area | Comfort Level |
+|------|---------------|
+| **LLM prompting & fine‑tuning** | ▰▰▰▰▰▰▰▰▰▰ 90% |
+| **RAG pipelines (Qdrant, LangChain)** | ▰▰▰▰▰▰▰▰▰ 85% |
+| **Agentic workflows (tools, memory)** | ▰▰▰▰▰▰▰▰▰ 85% |
+| **Voice AI (Deepgram, Whisper)** | ▰▰▰▰▰▰▰ 70% |
+| **Image gen (CNNs / Stable Diffusion)** | ▰▰▰▰▰▰ 60% |
+| **Model deployment (FastAPI + Docker)** | ▰▰▰▰▰▰▰▰ 80% |
 
 </div>
 
 ---
 
-## 🤖 AI Proficiency
+## 🎯 Currently Focusing On
 
-<div align="center">
-
-| Skill | Level |
-|-------|-------|
-| 🧠 Large Language Models (LLMs) | ▰▰▰▰▰▰▰▰▰▰ 95% |
-| 📚 RAG Pipelines | ▰▰▰▰▰▰▰▰▰ 85% |
-| 🔗 Agentic AI Systems | ▰▰▰▰▰▰▰▰▰ 85% |
-| 🎙️ Voice AI Integration | ▰▰▰▰▰▰▰ 70% |
-| 🖼️ Image Generation & CNNs | ▰▰▰▰▰▰▰ 70% |
-| 🐳 Containerized AI Deployments | ▰▰▰▰▰▰▰▰▰ 85% |
-
-</div>
+> **Building an open‑source agentic framework** that combines real‑time data streams (WebSockets) with LLM decision‑making.  
+> *Think: “Zapier but with memory and generative planning.”*
 
 ---
 
-## 📬 Connect
+## 📬 Let’s talk
 
 <div align="center">
 
 <a href="mailto:deviprakashyadav15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-deviprakashyadav15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_deviprakashyadav15@gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-&nbsp;
 <a href="https://github.com/Rohan77ux">
-  <img src="https://img.shields.io/badge/GitHub-Rohan77ux-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐙_github.com/Rohan77ux-1E293B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -205,12 +189,10 @@
 ---
 
 <div align="center">
+  
+<!-- Minimalist footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=667eea&height=60&section=footer" width="100%"/>
 
-### 💡 *"Building experiences, embedding intelligence, shipping what matters."*
-
-<br/>
-
-<!-- Simple Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3748,100:1a202c&height=120&section=footer"/>
+**“Build. Learn. Ship. Repeat.”**
 
 </div>
